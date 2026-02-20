@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Informasi RT/RW",
+  "description": "Sistem manajemen kependudukan untuk RT/RW, termasuk data warga, kartu keluarga, dan pelayanan surat.",
+  "requestFramePermissions": []
+}
